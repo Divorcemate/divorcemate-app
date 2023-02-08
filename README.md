@@ -1,2 +1,3 @@
-# divorcemate-app
+# DivorceMate
+
 DivorceMate installer release repo
